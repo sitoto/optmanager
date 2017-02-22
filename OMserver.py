@@ -24,6 +24,9 @@ class ManagerService(Service):
     
 
 
+    def exposed_test(self,get_string):
+        return "echo:",get_string
+
     def exposed_Runcommands(self,get_string):
 
         logging.basicConfig(level=logging.DEBUG,

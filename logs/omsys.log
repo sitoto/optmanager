@@ -4329,3 +4329,306 @@ Traceback (most recent call last):
 2017-01-22 14:32:13,723 [INFO] welcome ('192.168.2.41', 47379)
 2017-01-22 14:32:25,804 [INFO] goodbye ('192.168.2.41', 47379)
 2017-01-23 15:09:17,068 [INFO] goodbye ('192.168.2.41', 45204)
+2017-02-21 14:41:54,860 [INFO] goodbye ('192.168.2.41', 57267)
+2017-02-21 14:46:31,580 [INFO] accepted ('192.168.2.41', 57295)
+2017-02-21 14:46:31,581 [INFO] welcome ('192.168.2.41', 57295)
+2017-02-21 14:46:31,589 [INFO] accepted ('192.168.2.41', 57296)
+2017-02-21 14:46:31,589 [INFO] goodbye ('192.168.2.41', 57295)
+2017-02-21 14:46:31,590 [INFO] welcome ('192.168.2.41', 57296)
+2017-02-21 14:46:38,788 [INFO] accepted ('192.168.2.41', 57300)
+2017-02-21 14:46:38,789 [INFO] welcome ('192.168.2.41', 57300)
+2017-02-21 14:46:38,799 [INFO] accepted ('192.168.2.41', 57301)
+2017-02-21 14:46:38,800 [INFO] goodbye ('192.168.2.41', 57300)
+2017-02-21 14:46:38,800 [INFO] welcome ('192.168.2.41', 57301)
+2017-02-21 14:47:01,047 [INFO] accepted ('192.168.2.41', 57313)
+2017-02-21 14:47:01,048 [INFO] welcome ('192.168.2.41', 57313)
+2017-02-21 14:47:01,062 [INFO] accepted ('192.168.2.41', 57314)
+2017-02-21 14:47:01,063 [INFO] goodbye ('192.168.2.41', 57313)
+2017-02-21 14:47:01,063 [INFO] welcome ('192.168.2.41', 57314)
+2017-02-21 14:47:02,863 [INFO] goodbye ('192.168.2.41', 57314)
+2017-02-21 14:47:14,150 [INFO] accepted ('192.168.2.41', 57320)
+2017-02-21 14:47:14,150 [INFO] welcome ('192.168.2.41', 57320)
+2017-02-21 14:47:14,158 [INFO] accepted ('192.168.2.41', 57321)
+2017-02-21 14:47:14,159 [INFO] goodbye ('192.168.2.41', 57320)
+2017-02-21 14:47:14,159 [INFO] welcome ('192.168.2.41', 57321)
+2017-02-21 14:47:14,218 [INFO] goodbye ('192.168.2.41', 57321)
+2017-02-21 14:47:49,655 [INFO] accepted ('192.168.2.41', 57323)
+2017-02-21 14:47:49,656 [INFO] welcome ('192.168.2.41', 57323)
+2017-02-21 14:47:49,672 [INFO] accepted ('192.168.2.41', 57324)
+2017-02-21 14:47:49,672 [INFO] goodbye ('192.168.2.41', 57323)
+2017-02-21 14:47:49,673 [INFO] welcome ('192.168.2.41', 57324)
+2017-02-21 14:48:30,649 [INFO] accepted ('192.168.2.41', 57330)
+2017-02-21 14:48:30,649 [INFO] welcome ('192.168.2.41', 57330)
+2017-02-21 14:48:30,662 [INFO] accepted ('192.168.2.41', 57331)
+2017-02-21 14:48:30,664 [INFO] goodbye ('192.168.2.41', 57330)
+2017-02-21 14:48:30,664 [INFO] welcome ('192.168.2.41', 57331)
+2017-02-21 14:48:30,814 [INFO] goodbye ('192.168.2.41', 57331)
+2017-02-21 14:48:54,363 [INFO] accepted ('192.168.2.41', 57333)
+2017-02-21 14:48:54,363 [INFO] welcome ('192.168.2.41', 57333)
+2017-02-21 14:48:54,375 [INFO] accepted ('192.168.2.41', 57334)
+2017-02-21 14:48:54,375 [INFO] welcome ('192.168.2.41', 57334)
+2017-02-21 14:48:54,376 [INFO] goodbye ('192.168.2.41', 57333)
+2017-02-21 14:48:56,167 [INFO] goodbye ('192.168.2.41', 57334)
+2017-02-21 14:51:36,194 [INFO] accepted ('192.168.2.41', 57336)
+2017-02-21 14:51:36,198 [INFO] welcome ('192.168.2.41', 57336)
+2017-02-21 14:51:36,220 [INFO] accepted ('192.168.2.41', 57337)
+2017-02-21 14:51:36,221 [INFO] goodbye ('192.168.2.41', 57336)
+2017-02-21 14:51:36,221 [INFO] welcome ('192.168.2.41', 57337)
+2017-02-21 14:51:37,887 [INFO] goodbye ('192.168.2.41', 57337)
+2017-02-21 15:01:44,977 [INFO] accepted ('192.168.2.41', 57341)
+2017-02-21 15:01:44,977 [INFO] welcome ('192.168.2.41', 57341)
+2017-02-21 15:01:44,985 [INFO] accepted ('192.168.2.41', 57342)
+2017-02-21 15:01:44,986 [INFO] goodbye ('192.168.2.41', 57341)
+2017-02-21 15:01:44,986 [INFO] welcome ('192.168.2.41', 57342)
+2017-02-21 15:01:48,064 [INFO] goodbye ('192.168.2.41', 57342)
+2017-02-21 15:09:28,872 [INFO] accepted ('192.168.2.41', 57360)
+2017-02-21 15:09:28,873 [INFO] welcome ('192.168.2.41', 57360)
+2017-02-21 15:09:28,880 [INFO] accepted ('192.168.2.41', 57361)
+2017-02-21 15:09:28,881 [INFO] welcome ('192.168.2.41', 57361)
+2017-02-21 15:09:28,882 [INFO] goodbye ('192.168.2.41', 57360)
+2017-02-21 15:09:30,764 [INFO] goodbye ('192.168.2.41', 57361)
+2017-02-21 15:30:44,966 [INFO] accepted ('192.168.2.41', 57365)
+2017-02-21 15:30:44,966 [INFO] welcome ('192.168.2.41', 57365)
+2017-02-21 15:30:44,977 [INFO] accepted ('192.168.2.41', 57366)
+2017-02-21 15:30:44,978 [INFO] goodbye ('192.168.2.41', 57365)
+2017-02-21 15:30:44,979 [INFO] welcome ('192.168.2.41', 57366)
+2017-02-21 15:31:37,981 [INFO] goodbye ('192.168.2.41', 57366)
+2017-02-21 15:31:57,568 [INFO] accepted ('192.168.2.41', 57378)
+2017-02-21 15:31:57,568 [INFO] welcome ('192.168.2.41', 57378)
+2017-02-21 15:31:57,579 [INFO] accepted ('192.168.2.41', 57379)
+2017-02-21 15:31:57,580 [INFO] goodbye ('192.168.2.41', 57378)
+2017-02-21 15:31:57,580 [INFO] welcome ('192.168.2.41', 57379)
+2017-02-21 15:31:58,116 [INFO] goodbye ('192.168.2.41', 57379)
+2017-02-21 15:32:04,576 [INFO] accepted ('192.168.2.41', 57383)
+2017-02-21 15:32:04,577 [INFO] welcome ('192.168.2.41', 57383)
+2017-02-21 15:32:04,588 [INFO] accepted ('192.168.2.41', 57384)
+2017-02-21 15:32:04,589 [INFO] goodbye ('192.168.2.41', 57383)
+2017-02-21 15:32:04,589 [INFO] welcome ('192.168.2.41', 57384)
+2017-02-21 15:32:06,663 [INFO] goodbye ('192.168.2.41', 57384)
+2017-02-21 15:32:24,108 [INFO] accepted ('192.168.2.41', 57394)
+2017-02-21 15:32:24,108 [INFO] welcome ('192.168.2.41', 57394)
+2017-02-21 15:32:24,119 [INFO] accepted ('192.168.2.41', 57395)
+2017-02-21 15:32:24,119 [INFO] goodbye ('192.168.2.41', 57394)
+2017-02-21 15:32:24,120 [INFO] welcome ('192.168.2.41', 57395)
+2017-02-21 15:32:26,524 [INFO] goodbye ('192.168.2.41', 57395)
+2017-02-21 16:03:17,362 [INFO] accepted ('192.168.2.41', 57445)
+2017-02-21 16:03:17,372 [INFO] welcome ('192.168.2.41', 57445)
+2017-02-21 16:03:17,383 [INFO] goodbye ('192.168.2.41', 57445)
+2017-02-21 16:03:17,384 [INFO] accepted ('192.168.2.41', 57446)
+2017-02-21 16:03:17,384 [INFO] welcome ('192.168.2.41', 57446)
+2017-02-21 16:04:09,524 [INFO] goodbye ('192.168.2.41', 57446)
+2017-02-21 17:01:16,766 [INFO] accepted ('192.168.2.41', 57523)
+2017-02-21 17:01:16,767 [INFO] welcome ('192.168.2.41', 57523)
+2017-02-21 17:01:16,837 [INFO] accepted ('192.168.2.41', 57524)
+2017-02-21 17:01:16,838 [INFO] goodbye ('192.168.2.41', 57523)
+2017-02-21 17:01:16,839 [INFO] welcome ('192.168.2.41', 57524)
+2017-02-21 17:01:17,027 [INFO] goodbye ('192.168.2.41', 57524)
+2017-02-21 17:01:50,593 [INFO] accepted ('192.168.2.41', 57526)
+2017-02-21 17:01:50,593 [INFO] welcome ('192.168.2.41', 57526)
+2017-02-21 17:01:50,615 [INFO] accepted ('192.168.2.41', 57527)
+2017-02-21 17:01:50,615 [INFO] goodbye ('192.168.2.41', 57526)
+2017-02-21 17:01:50,616 [INFO] welcome ('192.168.2.41', 57527)
+2017-02-21 17:01:52,811 [INFO] goodbye ('192.168.2.41', 57527)
+2017-02-21 17:02:06,822 [INFO] accepted ('192.168.2.41', 57531)
+2017-02-21 17:02:06,823 [INFO] welcome ('192.168.2.41', 57531)
+2017-02-21 17:02:06,836 [INFO] accepted ('192.168.2.41', 57532)
+2017-02-21 17:02:06,838 [INFO] goodbye ('192.168.2.41', 57531)
+2017-02-21 17:02:06,838 [INFO] welcome ('192.168.2.41', 57532)
+2017-02-21 17:02:07,538 [INFO] goodbye ('192.168.2.41', 57532)
+2017-02-21 17:05:03,853 [INFO] accepted ('192.168.2.41', 57538)
+2017-02-21 17:05:03,854 [INFO] welcome ('192.168.2.41', 57538)
+2017-02-21 17:05:03,886 [INFO] accepted ('192.168.2.41', 57539)
+2017-02-21 17:05:03,887 [INFO] goodbye ('192.168.2.41', 57538)
+2017-02-21 17:05:03,887 [INFO] welcome ('192.168.2.41', 57539)
+2017-02-21 17:05:06,164 [INFO] goodbye ('192.168.2.41', 57539)
+2017-02-21 17:22:29,803 [INFO] accepted ('192.168.2.41', 57553)
+2017-02-21 17:22:29,807 [INFO] welcome ('192.168.2.41', 57553)
+2017-02-21 17:22:29,817 [INFO] accepted ('192.168.2.41', 57554)
+2017-02-21 17:22:29,817 [INFO] goodbye ('192.168.2.41', 57553)
+2017-02-21 17:22:29,818 [INFO] welcome ('192.168.2.41', 57554)
+2017-02-21 17:22:31,380 [INFO] goodbye ('192.168.2.41', 57554)
+2017-02-22 12:17:13,323 [INFO] accepted ('192.168.2.41', 57667)
+2017-02-22 12:17:13,334 [INFO] welcome ('192.168.2.41', 57667)
+2017-02-22 12:17:13,346 [INFO] goodbye ('192.168.2.41', 57667)
+2017-02-22 12:17:13,346 [INFO] accepted ('192.168.2.41', 57668)
+2017-02-22 12:17:13,347 [INFO] welcome ('192.168.2.41', 57668)
+2017-02-22 12:17:15,246 [INFO] goodbye ('192.168.2.41', 57668)
+2017-02-22 14:34:11,946 [INFO] accepted ('192.168.2.43', 5770)
+2017-02-22 14:34:11,960 [INFO] welcome ('192.168.2.43', 5770)
+2017-02-22 14:34:33,010 [INFO] accepted ('192.168.2.43', 5771)
+2017-02-22 14:34:33,011 [INFO] welcome ('192.168.2.43', 5771)
+2017-02-22 14:35:12,542 [INFO] accepted ('192.168.2.43', 5772)
+2017-02-22 14:35:12,554 [INFO] welcome ('192.168.2.43', 5772)
+2017-02-22 14:35:12,562 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_getmodule'
+2017-02-22 14:35:12,589 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_getmodule'
+2017-02-22 14:35:16,503 [INFO] accepted ('192.168.2.43', 5773)
+2017-02-22 14:35:16,504 [INFO] goodbye ('192.168.2.43', 5771)
+2017-02-22 14:35:16,504 [INFO] welcome ('192.168.2.43', 5773)
+2017-02-22 14:35:30,197 [INFO] accepted ('192.168.2.43', 5774)
+2017-02-22 14:35:30,198 [INFO] goodbye ('192.168.2.43', 5770)
+2017-02-22 14:35:30,199 [INFO] welcome ('192.168.2.43', 5774)
+2017-02-22 14:35:30,205 [INFO] goodbye ('192.168.2.43', 5772)
+2017-02-22 14:38:24,337 [INFO] accepted ('192.168.2.43', 5775)
+2017-02-22 14:38:24,337 [INFO] welcome ('192.168.2.43', 5775)
+2017-02-22 14:38:40,520 [INFO] accepted ('192.168.2.43', 5776)
+2017-02-22 14:38:40,521 [INFO] goodbye ('192.168.2.43', 5773)
+2017-02-22 14:38:40,522 [INFO] welcome ('192.168.2.43', 5776)
+2017-02-22 14:40:08,751 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_modules'
+2017-02-22 14:40:08,755 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_modules'
+2017-02-22 14:40:20,928 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_modules'
+2017-02-22 14:40:20,933 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_modules'
+2017-02-22 14:40:37,541 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_modules'
+2017-02-22 14:40:37,544 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_modules'
+2017-02-22 14:40:40,763 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_modules'
+2017-02-22 14:40:40,769 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_modules'
+2017-02-22 15:19:39,654 [INFO] goodbye ('192.168.2.43', 5774)
+2017-02-22 15:22:14,731 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_test'
+2017-02-22 15:22:14,736 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_test'
+2017-02-22 15:24:15,193 [INFO] goodbye ('192.168.2.41', 57324)
+2017-02-22 15:24:15,194 [INFO] goodbye ('192.168.2.41', 57301)
+2017-02-22 15:24:15,195 [INFO] goodbye ('192.168.2.41', 57296)
+2017-02-22 15:24:15,195 [INFO] goodbye ('192.168.2.41', 57245)
+2017-02-22 15:24:15,196 [INFO] goodbye ('192.168.2.41', 57237)
+2017-02-22 15:24:15,197 [INFO] goodbye ('192.168.2.41', 57242)
+2017-02-22 15:30:50,482 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_test'
+2017-02-22 15:30:50,492 [DEBUG] Exception caught
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 300, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 538, in _handle_getattr
+    return self._access_attr(oid, name, (), "_rpyc_getattr", "allow_getattr", getattr)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/protocol.py", line 504, in _access_attr
+    return accessor(obj, name, *args)
+  File "/usr/lib/python2.6/site-packages/rpyc-3.2.3-py2.6.egg/rpyc/core/service.py", line 69, in _rpyc_getattr
+    return getattr(self, name)
+AttributeError: 'ManagerService' object has no attribute 'exposed_test'
